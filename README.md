@@ -13,7 +13,7 @@ HelloDoc ChatBot is an AI-powered chatbot designed for efficient doctor-patient 
 - **Responsive Design**: Works smoothly on desktops, tablets, and mobile devices.
 
 For Demo checkout following link👇:  
-<a href="https://bijayrauniyar-hello-doc.vercel.app/" target="_blank">Personal Portfolio Website</a> </br>
+<a href="https://bijayrauniyar-hello-doc.vercel.app/" target="_blank">HelloDoc Chatbot</a> </br>
 ### Images of HelloDoc ChatBot:
 ![Chatbot UI](images/img1.jpg)
 ![Doctor Listing](images/img2.jpg)
