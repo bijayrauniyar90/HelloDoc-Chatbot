@@ -1,135 +1,146 @@
 export const companyInfo = `
-Introduction:
-### Patient-Doctor Management System Data
 
-#### City: Mediville
+## Help Center
 
----
+### Account
+- **How do I create an account?**  
+  Click on "Sign Up," enter your name, email, and password, and follow the steps to register.
 
-### Hospitals:
+- **How can I update my account information?**  
+  Go to "Account Settings" in your dashboard to edit your details.
 
-1. **Mediville General Hospital**
-   - Address: 123 Health Street, Mediville, CA 90210
-   - Contact: +1 (555) 123-4567
-   - Departments:
-     - **Cardiology**
-       - Dr. Olivia Smith (Available: Mon, Wed, Fri - 9 AM to 1 PM)
-       - Dr. Ethan Harris (Available: Tue, Thu - 10 AM to 2 PM)
-     - **Neurology**
-       - Dr. Sophia Wilson (Available: Mon, Wed - 11 AM to 3 PM)
-       - Dr. Liam Johnson (Available: Thu, Fri - 1 PM to 5 PM)
-     - **Pediatrics**
-       - Dr. Mia Martinez (Available: Mon, Tue, Thu - 9 AM to 1 PM)
-       - Dr. Noah Lee (Available: Wed, Fri - 10 AM to 3 PM)
-     - **Orthopedics**
-       - Dr. Ava Davis (Available: Mon, Tue - 9 AM to 12 PM)
-       - Dr. James Brown (Available: Wed, Thu, Fri - 1 PM to 4 PM)
+- **What do I do if I forget my password?**  
+  Click "Forgot Password?" on the login page and follow the steps to reset it.
 
-   **Appointments:**
-   - Cardiology: 9 slots/day (30 min each)
-   - Neurology: 8 slots/day (45 min each)
-   - Pediatrics: 10 slots/day (20 min each)
-   - Orthopedics: 7 slots/day (40 min each)
+- **Can I delete my account?**  
+  Yes, you can delete your account via "Account Settings" or by contacting support.
+
+- **Can I use the same email for multiple accounts?**  
+  No, each email address is linked to a single account.
 
 ---
 
-2. **Mediville Specialty Clinic**
-   - Address: 456 Care Lane, Mediville, CA 90211
-   - Contact: +1 (555) 234-5678
-   - Departments:
-     - **Dermatology**
-       - Dr. Emma White (Available: Mon, Wed, Fri - 10 AM to 1 PM)
-       - Dr. Lucas Walker (Available: Tue, Thu - 12 PM to 3 PM)
-     - **ENT (Ear, Nose, Throat)**
-       - Dr. Amelia Scott (Available: Mon, Tue, Wed - 11 AM to 2 PM)
-       - Dr. Mason King (Available: Thu, Fri - 1 PM to 4 PM)
-     - **Gastroenterology**
-       - Dr. Harper Adams (Available: Mon, Wed, Fri - 9 AM to 1 PM)
-       - Dr. Logan Perez (Available: Tue, Thu - 10 AM to 2 PM)
+### Appointment
+- **How do I book an appointment?**  
+  Select a doctor from the search results, choose an available time slot, and confirm your appointment.
 
-   **Appointments:**
-   - Dermatology: 8 slots/day (30 min each)
-   - ENT: 7 slots/day (45 min each)
-   - Gastroenterology: 9 slots/day (30 min each)
+- **Can I reschedule my appointment?**  
+  Yes, you can reschedule your appointment through the "My Appointments" section in your dashboard.
+
+- **Is there a fee for canceling an appointment?**  
+  Cancellation policies depend on the doctor’s terms. Check the cancellation terms while booking.
+
+- **Can I book an appointment for someone else?**  
+  Yes, you can book an appointment for a family member or friend by providing their details during booking.
+
+- **How do I know if my appointment is confirmed?**  
+  Once your booking is confirmed, you’ll receive a confirmation notification and email with appointment details.
 
 ---
 
-3. **Mediville Women’s Care Center**
-   - Address: 789 Wellness Road, Mediville, CA 90212
-   - Contact: +1 (555) 345-6789
-   - Departments:
-     - **Gynecology**
-       - Dr. Isabella Torres (Available: Mon, Wed - 10 AM to 1 PM)
-       - Dr. Henry Garcia (Available: Tue, Thu, Fri - 1 PM to 4 PM)
-     - **Obstetrics**
-       - Dr. Grace Martinez (Available: Mon, Tue, Wed - 9 AM to 12 PM)
-       - Dr. Daniel Moore (Available: Thu, Fri - 12 PM to 3 PM)
+## Hospitals and Doctors
 
-   **Appointments:**
-   - Gynecology: 6 slots/day (40 min each)
-   - Obstetrics: 7 slots/day (45 min each)
+### Mediville General Hospital
+- **Address:** 123 Health Street, Mediville, CA 90210
+- **Contact:** +1 (555) 123-4567
+- **Departments:**
+  - **Cardiology**
+    - Dr. Olivia Smith (Mon, Wed, Fri - 9 AM to 1 PM)
+    - Dr. Ethan Harris (Tue, Thu - 10 AM to 2 PM)
+  - **Neurology**
+    - Dr. Sophia Wilson (Mon, Wed - 11 AM to 3 PM)
+    - Dr. Liam Johnson (Thu, Fri - 1 PM to 5 PM)
+  - **Pediatrics**
+    - Dr. Mia Martinez (Mon, Tue, Thu - 9 AM to 1 PM)
+    - Dr. Noah Lee (Wed, Fri - 10 AM to 3 PM)
+  - **Orthopedics**
+    - Dr. Ava Davis (Mon, Tue - 9 AM to 12 PM)
+    - Dr. James Brown (Wed, Thu, Fri - 1 PM to 4 PM)
+
+### Mediville Specialty Clinic
+- **Address:** 456 Care Lane, Mediville, CA 90211
+- **Contact:** +1 (555) 234-5678
+- **Departments:**
+  - **Dermatology**
+    - Dr. Emma White (Mon, Wed, Fri - 10 AM to 1 PM)
+    - Dr. Lucas Walker (Tue, Thu - 12 PM to 3 PM)
+  - **ENT (Ear, Nose, Throat)**
+    - Dr. Amelia Scott (Mon, Tue, Wed - 11 AM to 2 PM)
+    - Dr. Mason King (Thu, Fri - 1 PM to 4 PM)
 
 ---
 
-### Additional Notes:
-- Patients can book appointments online through the Mediville Health Portal.
-- Emergency walk-ins are accepted 24/7 at Mediville General Hospital.
-- Teleconsultations are available for dermatology and ENT.
-- Contact the hospitals directly for further inquiries or visit the Mediville City Health Portal at [medivillehealth.com](https://www.medivillehealth.com).
+## Diseases, Symptoms, Precautions, and Medicines
 
----
-
-## Diseases, Symptoms, Precautions, Preventions & Medicines
-
-### 1. **Common Cold**
+### Common Cold
 - **Symptoms:** Runny nose, sore throat, sneezing, mild fever
 - **Precautions:** Wash hands frequently, avoid close contact with sick individuals
 - **Prevention:** Maintain hygiene, stay hydrated, get proper rest
 - **Medicines:** Paracetamol, Ibuprofen, Antihistamines
 
-### 2. **Influenza (Flu)**
+### Influenza (Flu)
 - **Symptoms:** Fever, chills, cough, body aches, fatigue
 - **Precautions:** Wear masks, practice good hygiene
 - **Prevention:** Annual flu vaccine
 - **Medicines:** Antiviral drugs like Oseltamivir, Acetaminophen
 
-### 3. **Diabetes**
+### Diabetes
 - **Symptoms:** Frequent urination, increased thirst, fatigue
 - **Precautions:** Monitor blood sugar levels, maintain a healthy diet
 - **Prevention:** Maintain a healthy weight, exercise regularly
 - **Medicines:** Insulin, Metformin, Sulfonylureas
 
-### 4. **Hypertension**
+### Hypertension
 - **Symptoms:** Headaches, dizziness, blurred vision
 - **Precautions:** Reduce salt intake, avoid stress
 - **Prevention:** Exercise, maintain a balanced diet
 - **Medicines:** Amlodipine, Losartan, Lisinopril
 
-### 5. **Asthma**
-- **Symptoms:** Wheezing, shortness of breath, coughing
-- **Precautions:** Avoid allergens, use air purifiers
-- **Prevention:** Proper inhaler use, regular check-ups
-- **Medicines:** Albuterol, Montelukast, Inhaled Corticosteroids
+---
 
-### 6. **Migraine**
-- **Symptoms:** Severe headache, nausea, sensitivity to light
-- **Precautions:** Manage stress, get adequate sleep
-- **Prevention:** Maintain a regular sleep schedule, avoid triggers
-- **Medicines:** Sumatriptan, Naproxen, Propranolol
+### Privacy and Legal
+- **What information do you collect from users?**  
+  We collect basic information such as name, email, and phone number during registration, as well as details relevant to your use of the platform.
 
-### 7. **Arthritis**
-- **Symptoms:** Joint pain, stiffness, swelling
-- **Precautions:** Maintain healthy weight, exercise regularly
-- **Prevention:** Avoid joint injuries, ensure adequate calcium intake
-- **Medicines:** NSAIDs, Corticosteroids, DMARDs
+- **How is my personal information used?**  
+  Your information is used to provide services, such as managing appointments and improving the user experience.
 
-### 8. **Depression**
-- **Symptoms:** Persistent sadness, loss of interest, fatigue
-- **Precautions:** Seek counseling, maintain a support network
-- **Prevention:** Regular exercise, healthy social life
-- **Medicines:** SSRIs, SNRIs, Bupropion
+- **Is my data shared with third parties?**  
+  Your data is not shared with third parties without your consent, except as required by law or to provide essential services.
 
-End of Data.
+- **How can I request the deletion of my data?**  
+  You can request data deletion by contacting support. Once processed, your data will be permanently removed from our systems.
 
+- **Where can I find your terms of service and privacy policy?**  
+  Our terms of service and privacy policy are available on the website footer or through the "Privacy and Legal" section in your account.
 
+---
+
+### Contact
+- **How can I contact customer support?**  
+  You can contact customer support through the "Contact" section on the website or the app. You can also reach us via email or our support hotline.
+
+- **What is the customer support contact number?**  
+  The customer support number is +91-7608093320. You can also reach us via email for assistance.
+
+- **Can I contact support outside working hours?**  
+  Yes, you can send an email or use the support form at any time, and we will respond as soon as possible during working hours.
+
+- **Where can I find the company's physical address?**  
+  The company's physical address is Butwal, Nepal.
+
+---
+
+### Feedback and Suggestions
+We value your input to make our platform better. Please share your thoughts using our feedback form or contact us at [feedback@hellodoc.com](mailto:feedback@hellodoc.com).
+
+---
+
+### Language Selection
+Our platform is available in multiple languages. Select your preferred language from the language dropdown in the website footer.
+
+---
+
+### Footer
+&copy; Hellodoc 2025. All Rights Reserved. Contact us: [hi@hellodoc.com](mailto:hi@hellodoc.com) | +91-7608093320
 `;
